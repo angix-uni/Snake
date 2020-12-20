@@ -1,0 +1,11 @@
+C:\Users\Kuba\source\repos\Snake\Snake\bin\Release\Snake.exe.config
+C:\Users\Kuba\source\repos\Snake\Snake\bin\Release\Snake.exe
+C:\Users\Kuba\source\repos\Snake\Snake\bin\Release\Snake.pdb
+C:\Users\Kuba\source\repos\Snake\Snake\obj\Release\Snake.Snake_Game.resources
+C:\Users\Kuba\source\repos\Snake\Snake\obj\Release\Snake.Zapisz_Wynik.resources
+C:\Users\Kuba\source\repos\Snake\Snake\obj\Release\Snake.Properties.Resources.resources
+C:\Users\Kuba\source\repos\Snake\Snake\obj\Release\Snake.csproj.GenerateResource.cache
+C:\Users\Kuba\source\repos\Snake\Snake\obj\Release\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\source\repos\Snake\Snake\obj\Release\Snake.exe
+C:\Users\Kuba\source\repos\Snake\Snake\obj\Release\Snake.pdb
+C:\Users\Kuba\source\repos\Snake\Snake\obj\Release\Snake.csprojAssemblyReference.cache
